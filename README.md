@@ -1,3 +1,6 @@
+This is a live search application to get weather from over 200k cities accross the world thanks to API https://openweathermap.org/current
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
